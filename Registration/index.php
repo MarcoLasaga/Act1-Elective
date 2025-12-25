@@ -6,7 +6,8 @@
     <title>Login / Register</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="styles.css">
+	<link rel="stylesheet" href="/Regis/assets/css/styles.css">
+
 </head>
 <body>
 <div id="notify"></div>
@@ -70,6 +71,6 @@
     </div>
 
 </div>
-<script src="script.js"></script>
+<script src="/Regis/Login/script.js"></script>
 </body>
 </html>
