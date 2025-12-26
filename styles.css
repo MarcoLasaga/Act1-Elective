@@ -10,9 +10,6 @@
   --gray-100: #f2f2f2;
 }
 
-/* =========================
-   RESET
-========================= */
 
 body {
   cursor: url("/Blog/Assets/arrowhead-rounded-outline.png") 16 16, auto;
@@ -114,9 +111,6 @@ body {
   border-radius: 50%;
 }
 
-/* =========================
-   BURGER MENU
-========================= */
 .burger {
   display: none;
   flex-direction: column;
@@ -143,9 +137,6 @@ body {
   transform: rotate(-45deg) translate(5px, -5px);
 }
 
-/* =========================
-   HERO
-========================= */
 .hero {
   max-width: 1200px;
   margin: 30px auto;
@@ -187,9 +178,6 @@ body {
   color: var(--red-900);
 }
 
-/* =========================
-   BUTTONS
-========================= */
 .btn {
   display: inline-block;
   margin-top: 18px;
@@ -222,7 +210,6 @@ body {
   background: var(--red-900);
 }
 
-/* Buy + Add buttons alignment */
 .product-info .btn,
 .product-info .btn-icon {
   display: inline-flex;
@@ -230,10 +217,6 @@ body {
   justify-content: center;
 }
 
-
-/* =========================
-   CATEGORY
-========================= */
 .category-showcase {
   max-width: 1200px;
   margin: 35px auto;
@@ -270,10 +253,6 @@ body {
   z-index: 5;
 }
 
-
-/* =========================
-   SECTIONS
-========================= */
 .featured-section,
 .discounted-section {
   padding: 55px 20px;
@@ -293,9 +272,6 @@ body {
   opacity: 0.85;
 }
 
-/* =========================
-   PRODUCTS
-========================= */
 .products-grid {
   max-width: 1200px;
   margin: auto;
@@ -332,9 +308,6 @@ body {
   margin-bottom: 12px;
 }
 
-/* =========================
-   DISCOUNT BANNER
-========================= */
 .discount-banner {
   background: var(--gold-500);
   color: var(--red-900);
@@ -348,9 +321,6 @@ body {
   text-align: center;
 }
 
-/* =========================
-   NEWSLETTER
-========================= */
 .newsletter {
   background: #8b0000;
   padding: 35px 20px;
@@ -400,9 +370,6 @@ body {
   cursor: pointer;
 }
 
-/* =========================
-   FOOTER
-========================= */
 .user-footer {
   background: #f6e7c2;
   color: #111;
@@ -456,9 +423,7 @@ body {
   font-weight: 600;
   color: #111;
 }
-/* =========================
-   RESPONSIVE
-========================= */
+
 @media (max-width: 992px) {
   .hero {
     grid-template-columns: 1fr;
