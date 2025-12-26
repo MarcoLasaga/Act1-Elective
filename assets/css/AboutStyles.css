@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
 
-/* =====================
-   VARIABLES
-===================== */
 :root {
   --red-900: #640000;
   --red-800: #7a0000;
@@ -14,9 +11,6 @@
   --black: #111;
 }
 
-/* =====================
-   RESET & CURSORS
-===================== */
 * {
   margin: 0;
   padding: 0;
@@ -53,9 +47,6 @@ button:active,
   min-height: 100vh;
 }
 
-/* =====================
-   HEADER (INCORPORATED)
-===================== */
 .user-app {
   min-height: 100vh;
 }
@@ -128,9 +119,6 @@ button:active,
   border-radius: 50%;
 }
 
-/* =====================
-   CONTACT
-===================== */
 .contact-section {
   background: var(--red-800);
   padding: 80px 20px;
@@ -175,9 +163,6 @@ button:active,
   border-radius: 6px;
 }
 
-/* =====================
-   HERO
-===================== */
 .about-hero {
   background: var(--red-700);
   padding: 90px 20px;
@@ -190,9 +175,6 @@ button:active,
   font-weight: 900;
 }
 
-/* =====================
-   STORY
-===================== */
 .about-story {
   background: var(--red-800);
   padding: 80px 20px;
@@ -215,9 +197,6 @@ button:active,
   color: var(--gold-500);
 }
 
-/* =====================
-   MISSION
-===================== */
 .mission-values {
   background: var(--red-900);
   padding: 80px 20px;
@@ -236,9 +215,6 @@ button:active,
   color: var(--gold-500);
 }
 
-/* =====================
-   TEAM
-===================== */
 .team-section {
   background: var(--cream-100);
   color: var(--black);
@@ -264,9 +240,6 @@ button:active,
   border-radius: 6px;
 }
 
-/* =====================
-   WHY CHOOSE GND (FIX)
-===================== */
 .why-choose-us {
   background: var(--red-800);
   padding: 80px 20px;
@@ -314,9 +287,6 @@ button:active,
   margin-bottom: 10px;
 }
 
-/* =====================
-   TESTIMONIALS (FIX)
-===================== */
 .testimonials {
   background: var(--cream-100);
   color: var(--black);
@@ -361,12 +331,6 @@ button:active,
   margin-bottom: 10px;
 }
 
-
-
-
-/* =====================
-   NEWSLETTER (INCORPORATED)
-===================== */
 .newsletter {
   background: var(--red-700);
   padding: 35px 20px;
@@ -411,9 +375,6 @@ button:active,
   border: none;
 }
 
-/* =====================
-   FOOTER (INCORPORATED)
-===================== */
 .user-footer {
   background: var(--cream-100);
   color: var(--black);
@@ -441,9 +402,6 @@ button:active,
   font-weight: 600;
 }
 
-/* =====================
-   RESPONSIVE
-===================== */
 @media (max-width: 900px) {
   .contact-container,
   .story-container {
