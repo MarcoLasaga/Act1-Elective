@@ -46,9 +46,6 @@ body {
   color: var(--white);
 }
 
-/* =========================
-   HEADER
-========================= */
 .user-header {
   background: var(--white);
   border-bottom: 4px solid var(--gold-500);
