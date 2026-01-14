@@ -26,10 +26,8 @@ This project was created for educational purposes to demonstrate how front-end a
 
 ## 👥 Group Members
 
-* Member 1
-* Member 2
-* Member 3
-* Member 4
+* Cabrera, Francis Mico
+* Lasaga, Marco Antonio 
 
 ## 📄 License
 
