@@ -17,8 +17,12 @@
 
     <div class="footer-section">
       <h4>Contact Us</h4>
-      <p><i class="fas fa-envelope"></i> info@gnd.com</p>
-      <p><i class="fas fa-phone"></i> (123) 456-7890</p>
+      <p><strong>Mico</strong></p>
+      <p><i class="fas fa-envelope"></i> micocabrera1016@gmail.com</p>
+      <p><i class="fas fa-phone"></i> 09202876573</p>
+      <p style="margin-top:10px;"><strong>Marco</strong></p>
+      <p><i class="fas fa-envelope"></i> mamamobenten@gmail.com</p>
+      <p><i class="fas fa-phone"></i> 09920532549</p>
     </div>
   </div>
 
